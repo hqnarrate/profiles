@@ -2,7 +2,7 @@
 
 Web profiles for some production users:  
 
-- Hung (https://narrateapp.com/hung)
+- Hung (https://narrateapp.com/hung)a]
 - Robert (https://narrateapp.com/robert)
 - Allan (https://narrateapp.com/allan)
 - [Meghan] https://narrateapp.com/meghan (https://narrateapp.com/meghan)
@@ -35,35 +35,34 @@ On Live Production:
 3. Direct universal link: https://beta.narrateapp.com/profile/${username}
 4. Hybrid ugly deep link: https://9cwbj-alternate.app.link/profile/${username}?%24username=${username}
 5. Hybrid domain deep link: https://beta.narrateapp.com/profile/${username}?%24username=${username}
-
 ```
 
 
-1. Branch ugly deep link: https://9cwbj-alternate.test-app.link?%24username=${username}: 
-   [hqqa2] (https://9cwbj-alternate.test-app.link?%24username=hqqa2)
-   [hqqa3] (https://9cwbj-alternate.test-app.link?%24username=hqqa3)
-   [robert] (https://9cwbj-alternate.test-app.link?%24username=robert)
+1. Branch ugly deep link: https://9cwbj-alternate.test-app.link?%24username=${username}:  
+   [hqqa2] (https://9cwbj-alternate.test-app.link?%24username=hqqa2)  
+   [hqqa3] (https://9cwbj-alternate.test-app.link?%24username=hqqa3) 
+   [robert] (https://9cwbj-alternate.test-app.link?%24username=robert) 
    
-2. Branch domain deep link: https://staging.narrteapp.com?%24username=${username}
-   [hqqa2] (https://staging.narrteapp.com?%24username=hqqa2)
-   [hqqa3] (https://staging.narrteapp.com?%24username=hqqa3)
-   [robert]((https://staging.narrteapp.com?%24username=robert)
+2. Branch domain deep link: https://staging.narrteapp.com?%24username=${username}:  
+   [hqqa2] (https://staging.narrteapp.com?%24username=hqqa2) 
+   [hqqa3] (https://staging.narrteapp.com?%24username=hqqa3) 
+   [robert]((https://staging.narrteapp.com?%24username=robert) 
    
-3. Direct universal link: https://staging.narrateapp.com/profile/${username}
+3. Direct universal link: https://staging.narrateapp.com/profile/${username}:  
    [hqqa2] (https://staging.narrteapp.com/profile/hqqa2)
    [hqqa3] (https://staging.narrteapp.com/profile/hqqa3)
    [robert]((https://staging.narrteapp.com/profile/robert)
 
 
-4. Hybrid ugly deep link: https://9cwbj-alternate.test-app.link/profile/${username}?%24username=${username}
-   [hqqa2] (https://staging.narrteapp.com/profile/hqqa2?%24username=hqqa2)
-   [hqqa3] (https://staging.narrteapp.com/profile/hqqa3?%24username=hqqa3)
-   [robert]((https://staging.narrteapp.com/profile/robert?%24username=robert)
+4. Hybrid ugly deep link: https://9cwbj-alternate.test-app.link/profile/${username}?%24username=${username}:  
+   [hqqa2] (https://staging.narrteapp.com/profile/hqqa2?%24username=hqqa2) 
+   [hqqa3] (https://staging.narrteapp.com/profile/hqqa3?%24username=hqqa3) 
+   [robert]((https://staging.narrteapp.com/profile/robert?%24username=robert) 
 
-5. Hybrid domain deep link: https://staging.narrateapp.com/profile/${username}?%24username=${username}
-   [hqqa2] (https://staging.narrteapp.com/profile/hqqa2?%24username=hqqa2)
-   [hqqa3] (https://staging.narrteapp.com/profile/hqqa3?%24username=hqqa3)
-   [robert]((https://staging.narrteapp.com/profile/robert?%24username=robert)
+5. Hybrid domain deep link: https://staging.narrateapp.com/profile/${username}?%24username=${username}:  
+   [hqqa2] (https://staging.narrteapp.com/profile/hqqa2?%24username=hqqa2) 
+   [hqqa3] (https://staging.narrteapp.com/profile/hqqa3?%24username=hqqa3) 
+   [robert]((https://staging.narrteapp.com/profile/robert?%24username=robert) 
 
 
 
