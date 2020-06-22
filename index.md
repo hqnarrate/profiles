@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+## Narrate web profiles 
 
-You can use the [editor on GitHub](https://github.com/hqnarrate/profiles/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Web profiles for some production users:  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Hung (https://narrateapp.com/hung)
+- Robert (https://narrateapp.com/robert)
+- Allan (https://narrateapp.com/allan)
+- [Meghan] https://narrateapp.com/meghan (https://narrateapp.com/meghan)
+- Billy https://narrateapp.com/billy
+ 
+ 
+We profiles for some qa users:  
 
-### Markdown
+- [Robert] (https://qa.narrateapp.com/robert)
+- [hqqa2] (https://qa.narrateapp.com/hqqa2)
+- [hqqa3] (https://qa.narrateapp.com/hqqa3)
+- [hqqa] (https://qa.narrateapp.com/hqqa)
+ 
+ 
+ ## Narrate direct deeplink profiles
+ 
+ Here are the 5 variations on potential deeplinks (universal + branch link)
+```
+On QA: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Branch ugly deep link: https://9cwbj-alternate.test-app.link?%24username=${username}
+2. Branch domain deep link: https://staging.narrteapp.com?%24username=${username}
+3. Direct universal link: https://staging.narrateapp.com/profile/${username}
+4. Hybrid ugly deep link: https://9cwbj-alternate.test-app.link/profile/${username}?%24username=${username}
+5. Hybrid domain deep link: https://staging.narrateapp.com/profile/${username}?%24username=${username}
 
-```markdown
-Syntax highlighted code block
+On Live Production:
+1. Branch ugly deep link: https://9cwbj-alternate.app.link?%24username=${username}
+2. Branch domain deep link: https://beta.narrteapp.com?%24username=${username}
+3. Direct universal link: https://beta.narrateapp.com/profile/${username}
+4. Hybrid ugly deep link: https://9cwbj-alternate.app.link/profile/${username}?%24username=${username}
+5. Hybrid domain deep link: https://beta.narrateapp.com/profile/${username}?%24username=${username}
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+1. Branch ugly deep link: https://9cwbj-alternate.test-app.link?%24username=${username}: 
+   [hqqa2] (https://9cwbj-alternate.test-app.link?%24username=hqqa2)
+   [hqqa3] (https://9cwbj-alternate.test-app.link?%24username=hqqa3)
+   [robert] (https://9cwbj-alternate.test-app.link?%24username=robert)
+   
+2. Branch domain deep link: https://staging.narrteapp.com?%24username=${username}
+   [hqqa2] (https://staging.narrteapp.com?%24username=hqqa2)
+   [hqqa3] (https://staging.narrteapp.com?%24username=hqqa3)
+   [robert]((https://staging.narrteapp.com?%24username=robert)
+   
+3. Direct universal link: https://staging.narrateapp.com/profile/${username}
+   [hqqa2] (https://staging.narrteapp.com/profile/hqqa2)
+   [hqqa3] (https://staging.narrteapp.com/profile/hqqa3)
+   [robert]((https://staging.narrteapp.com/profile/robert)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hqnarrate/profiles/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+4. Hybrid ugly deep link: https://9cwbj-alternate.test-app.link/profile/${username}?%24username=${username}
+   [hqqa2] (https://staging.narrteapp.com/profile/hqqa2?%24username=hqqa2)
+   [hqqa3] (https://staging.narrteapp.com/profile/hqqa3?%24username=hqqa3)
+   [robert]((https://staging.narrteapp.com/profile/robert?%24username=robert)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+5. Hybrid domain deep link: https://staging.narrateapp.com/profile/${username}?%24username=${username}
+   [hqqa2] (https://staging.narrteapp.com/profile/hqqa2?%24username=hqqa2)
+   [hqqa3] (https://staging.narrteapp.com/profile/hqqa3?%24username=hqqa3)
+   [robert]((https://staging.narrteapp.com/profile/robert?%24username=robert)
+
+
+
