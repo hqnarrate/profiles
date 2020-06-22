@@ -103,4 +103,4 @@ On Live Production:
 6. Hybrid domain deep link: https://staging.narrateapp.com/profile/${username}?%24username=${username}:  
    [hqqa2](https://beta.narrteapp.com/profile/hqqa2?%24username=hqqa2)  
    [hqqa3](https://beta.narrteapp.com/profile/hqqa3?%24username=hqqa3)  
-   [robert]((https://beta.narrteapp.com/profile/robert?%24username=robert)  
+   [robert](https://beta.narrteapp.com/profile/robert?%24username=robert)  
