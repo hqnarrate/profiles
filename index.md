@@ -2,8 +2,8 @@
 
 Web profiles for some production users:  
 
-- http://narrateapp.com/hung
-- https://narrateapp.com/robert
+- (http://narrateapp.com/hung)
+- (https://narrateapp.com/robert)
 - https://narrateapp.com/allan  
 - https://narrateapp.com/meghan
 - https://narrateapp.com/billy
