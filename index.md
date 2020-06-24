@@ -79,7 +79,7 @@ On Live Production:
    [allan](https://9cwbj-alternate.app.link?%24username=allan)  
    [billy](https://9cwbj-alternate.app.link?%24username=billy)  
    
-2. Branch domain deep link: https://staging.narrateapp.com?%24username=${username}:  
+2. Branch domain deep link: https://beta.narrateapp.com?%24username=${username}:  
    [hung](https://beta.narrateapp.com?%24username=hung)  
    [allan](https://beta.narrateapp.com?%24username=allan)  
    [billy](https://beta.narrateapp.com?%24username=billy)  
@@ -90,7 +90,7 @@ On Live Production:
    [billy](https://9cwbj-alternate.app.link/profile/billy)  
 
 
-4. Direct Domain universal link: https://staging.narrateapp.com/profile/${username}:  
+4. Direct Domain universal link: https://beta.narrateapp.com/profile/${username}:  
    [hung](https://beta.narrateapp.com/profile/hung)  
    [allan](https://beta.narrateapp.com/profile/allan)  
    [billy](https://beta.narrateapp.com/profile/billy)  
@@ -100,7 +100,7 @@ On Live Production:
    [allan](https:///9cwbj-alternate.app.link/profile/allan?%24username=allan)  
    [billy](https:///9cwbj-alternate.app.link/profile/billy?%24username=billy)  
 
-6. Hybrid domain deep link: https://staging.narrateapp.com/profile/${username}?%24username=${username}:  
+6. Hybrid domain deep link: https://beta.narrateapp.com/profile/${username}?%24username=${username}:  
    [hung](https://beta.narrateapp.com/profile/hung?%24username=hung)  
    [allan](https://beta.narrateapp.com/profile/allan?%24username=allan)  
    [billy](https://beta.narrateapp.com/profile/billy?%24username=billy)  
