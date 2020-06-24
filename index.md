@@ -2,19 +2,19 @@
 
 Web profiles for some production users:  
 
-- (http://narrateapp.com/hung)
-- (https://narrateapp.com/robert)
-- https://narrateapp.com/allan  
-- https://narrateapp.com/meghan
-- https://narrateapp.com/billy
+- [http://narrateapp.com/hung](http://narrateapp.com/hung)
+- [https://narrateapp.com/robert](https://narrateapp.com/robert)
+- [https://narrateapp.com/allan](https://narrateapp.com/allan)
+- [https://narrateapp.com/meghan](https://narrateapp.com/meghan)
+- [https://narrateapp.com/billy](https://narrateapp.com/billy)
  
  
 Web profiles for some qa users:  
 
-- https://qa.narrateapp.com/robert
-- https://qa.narrateapp.com/hqqa2  
-- https://qa.narrateapp.com/hqqa3
-- https://qa.narrateapp.com/hqqa
+- [https://qa.narrateapp.com/robert](https://qa.narrateapp.com/robert)
+- [https://qa.narrateapp.com/hqqa2](https://qa.narrateapp.com/hqqa2)
+- [https://qa.narrateapp.com/hqqa3](https://qa.narrateapp.com/hqqa3)
+- [https://qa.narrateapp.com/hqqa](https://qa.narrateapp.com/hqqa)
  
  
 ## Narrate direct deeplink profiles
