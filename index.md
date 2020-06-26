@@ -75,14 +75,14 @@ On Live Production:
 6. Hybrid domain deep link: https://beta.narrateapp.com/profile/${username}?%24username=${username}
 ```
 1. Branch ugly deep link: https://9cwbj-alternate.app.link?%24username=${username}:  
-   [hung](https://9cwbj-alternate.app.link?%24username=hung)  
-   [allan](https://9cwbj-alternate.app.link?%24username=allan)  
-   [billy](https://9cwbj-alternate.app.link?%24username=billy)  
+   [hung](https://9cwbj-alternate.app.link?%24username=hung&ios_passive_deepview=false)  
+   [allan](https://9cwbj-alternate.app.link?%24username=allan&ios_passive_deepview=false)  
+   [billy](https://9cwbj-alternate.app.link?%24username=billy&ios_passive_deepview=false)  
    
 2. Branch domain deep link: https://beta.narrateapp.com?%24username=${username}:  
-   [hung](https://beta.narrateapp.com?%24username=hung)  
-   [allan](https://beta.narrateapp.com?%24username=allan)  
-   [billy](https://beta.narrateapp.com?%24username=billy)  
+   [hung](https://beta.narrateapp.com?%24username=hung&ios_passive_deepview=false)  
+   [allan](https://beta.narrateapp.com?%24username=allan&ios_passive_deepview=false)  
+   [billy](https://beta.narrateapp.com?%24username=billy&ios_passive_deepview=false)  
    
 3. Direct ugly universal link: https://9cwbj-alternate.test-app.link/profile/${username}:  
    [hung](https://9cwbj-alternate.app.link/profile/hung)  
@@ -96,11 +96,11 @@ On Live Production:
    [billy](https://beta.narrateapp.com/profile/billy)  
 
 5. Hybrid ugly deep link: https://9cwbj-alternate.test-app.link/profile/${username}?%24username=${username}:  
-   [hung](https:///9cwbj-alternate.app.link/profile/hung?%24username=hung)  
-   [allan](https:///9cwbj-alternate.app.link/profile/allan?%24username=allan)  
-   [billy](https:///9cwbj-alternate.app.link/profile/billy?%24username=billy)  
+   [hung](https:///9cwbj-alternate.app.link/profile/hung?%24username=hung&ios_passive_deepview=false)  
+   [allan](https:///9cwbj-alternate.app.link/profile/allan?%24username=allan&ios_passive_deepview=false)  
+   [billy](https:///9cwbj-alternate.app.link/profile/billy?%24username=billy&ios_passive_deepview=false)  
 
 6. Hybrid domain deep link: https://beta.narrateapp.com/profile/${username}?%24username=${username}:  
-   [hung](https://beta.narrateapp.com/profile/hung?%24username=hung)  
-   [allan](https://beta.narrateapp.com/profile/allan?%24username=allan)  
-   [billy](https://beta.narrateapp.com/profile/billy?%24username=billy)  
+   [hung](https://beta.narrateapp.com/profile/hung?%24username=hung&ios_passive_deepview=false)  
+   [allan](https://beta.narrateapp.com/profile/allan?%24username=allan&ios_passive_deepview=false)  
+   [billy](https://beta.narrateapp.com/profile/billy?%24username=billy&ios_passive_deepview=false)  
